@@ -5,7 +5,7 @@ public record class GameDTO
 string Name,
 string Genre,
 decimal Price,
- DateOnly RealiseDate
+ DateOnly ReleaseDate
  );
 
 
