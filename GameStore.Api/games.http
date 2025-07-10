@@ -1,0 +1,28 @@
+GET http://localhost:5171/games
+
+###
+GET http://localhost:5171/games/1
+
+###
+POST http://localhost:5171/games
+Content-Type: application/json
+
+{
+    "name": "Game 4",
+    "genre": "Action",
+    "price": 59.99,
+    "releasedate": "2023-10-01"
+}
+
+###
+PUT http://localhost:5171/games/1
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Efootball 2025",
+    "genre": "Action",
+    "price": 19.99,
+    "releasedate": "2023-01-15"
+}
+
