@@ -25,30 +25,12 @@ C:\Users\DELL\Documents\C# Practice\GameStore.Api\GameStore.Api\obj\Debug\net9.0
 C:\Users\DELL\Documents\C# Practice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.pdb
 C:\Users\DELL\Documents\C# Practice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\DELL\Documents\C# Practice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
+C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.csproj.AssemblyReference.cache
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.AssemblyInfoInputs.cache
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.AssemblyInfo.cs
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\appsettings.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.staticwebassets.endpoints.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.exe
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.deps.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.runtimeconfig.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.dll
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\bin\Debug\net9.0\GameStore.Api.pdb
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\scopedcss\bundle\GameStore.Api.styles.css
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.dll
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\refint\GameStore.Api.dll
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.pdb
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.genruntimeconfig.cache
-C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\ref\GameStore.Api.dll
+C:\Users\DELL\Documents\CSharpPractice\GameStore.Api\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
